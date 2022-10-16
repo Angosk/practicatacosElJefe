@@ -1,0 +1,19 @@
+
+body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#logo{
+    width: 500px;
+}
+
+.nuneroDeTacos{
+    width: 40px;
+}
+
+.cajaOrden{
+    display: flex;
+    flex-direction: column;
+}
